@@ -1,3 +1,4 @@
+// App.js
 import { Route, Routes } from 'react-router-dom'
 import Home from './routes/home/home.routes'
 import Navigation from './routes/navigation/navigation.routes'
